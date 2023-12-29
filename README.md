@@ -1,4 +1,4 @@
-# Ad-papers until 2023
+# Ad-papers (until 2023)
 
 This repository contains research papers and code related to the field of advertising . The goal of this project is to provide a central location for researchers and practitioners to share and learn about the latest advancements in advertising technology and methodologies.
 
