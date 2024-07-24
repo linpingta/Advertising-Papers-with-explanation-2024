@@ -33,6 +33,13 @@ This repository contains papers and code related to various aspects of online ad
 | Optimized Cost per Click in Taobao Display Advertising.pdf |  |
 | Real-Time Bidding by Reinforcement Learning in Display Advertisin.pdf |  |
 
+## CTR
+| Name                             | Paper explanation                      |
+|----------------------------------|----------------------------------------|
+| Ad Click Prediction- a View from the Trenches | https://hub.baai.ac.cn/view/10907                                     |
+| Click-Through Rate Prediction in Online Advertising- A Literature Review | |
+| Deep Interest Evolution Network for Click-Through Rate Prediction | https://paperswithcode.com/paper/deep-interest-evolution-network-for-click |
+
 ## CVR
 | Name                             | Paper explanation                      |
 |----------------------------------|----------------------------------------|
