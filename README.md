@@ -10,6 +10,7 @@ This repository contains papers and code related to various aspects of online ad
 |------------------------|---------------------------------------------------------------------------------------------------------------|
 | ad_targeting           | Papers and code on ad targeting algorithms and techniques.                                                   |
 | bidding                | Papers and code on bidding strategies for online advertising auctions.                                       |
+| ctr                    | Papers and code on measuring and optimizing ad campaign click through rate.                                          |
 | cvr                    | Papers and code on measuring and optimizing ad campaign conversions.                                          |
 | guaranteed_ad          | Papers and code on guaranteed ad buying and brand advertising.                                                |
 | portfolio_optimization | Papers and code on optimizing ad campaign portfolios for maximum return on investment.                        |
@@ -38,6 +39,8 @@ This repository contains papers and code related to various aspects of online ad
 |----------------------------------|----------------------------------------|
 | Ad Click Prediction- a View from the Trenches | https://hub.baai.ac.cn/view/10907                                     |
 | Click-Through Rate Prediction in Online Advertising- A Literature Review | |
+| DeepFM- A Factorization-Machine based Neural Network for CTR Prediction | |
+| Field-aware Factorization Machines for CTR Prediction | https://zhuanlan.zhihu.com/p/50692817 |
 | Deep Interest Evolution Network for Click-Through Rate Prediction | https://paperswithcode.com/paper/deep-interest-evolution-network-for-click |
 
 ## CVR
