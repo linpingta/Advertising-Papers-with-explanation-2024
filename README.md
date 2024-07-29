@@ -9,6 +9,7 @@ This repository contains papers and code related to various aspects of online ad
 | Name                   | Description                                                                                                   |
 |------------------------|---------------------------------------------------------------------------------------------------------------|
 | ad_targeting           | Papers and code on ad targeting algorithms and techniques.                                                   |
+| auction                | Papers and code on mechanism for online advertising auctions.                                       |
 | bidding                | Papers and code on bidding strategies for online advertising auctions.                                       |
 | ctr                    | Papers and code on measuring and optimizing ad campaign click through rate.                                          |
 | cvr                    | Papers and code on measuring and optimizing ad campaign conversions.                                          |
@@ -22,6 +23,11 @@ This repository contains papers and code related to various aspects of online ad
 | Name                             | Paper explanation                                          |
 |----------------------------------|------------------------------------------------------------|
 | Indexing Boolean Expressions.pdf | https://zhuanlan.zhihu.com/p/662992719 |
+
+## Auction
+| Name                             | Paper explanation                                          |
+|----------------------------------|------------------------------------------------------------|
+| Advancing Ad Auction Realism- Practical Insights & Modeling Implications.pdf |  |
 
 ## Bidding
 | Name                             | Paper explanation                                          |
