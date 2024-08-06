@@ -81,6 +81,6 @@ This repository contains papers and code related to various aspects of online ad
 | Real-Time Optimization Of A Web Publisher RTB Revenue.pdf |       https://zhuanlan.zhihu.com/p/675121212                               |
 | Optimal Reserve Price for Online Ads Trading Based on Inventory Identification.pdf |       https://medium.com/me/stats/post/a2201eaf8225                              |
 | Reserve Price Optimization in First-Price Auctions via Multi-Task Learning.pdf |       [https://zhuanlan.zhihu.com/p/693431873  ](https://zhuanlan.zhihu.com/p/693431873)                             |
-| Reserve Price Optimization for First Price Auctions|                           | |
+| Reserve Price Optimization for First Price Auctions|                           | https://zhuanlan.zhihu.com/p/710941146 |
 
 
