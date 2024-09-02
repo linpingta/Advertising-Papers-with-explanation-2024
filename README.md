@@ -73,6 +73,11 @@ This repository contains papers and code related to various aspects of online ad
 | An Efficient Deep Distribution Network for Bid Shading in First-Price Auctions.pdf | https://zhuanlan.zhihu.com/p/670846535                                       |
 | Bid Shading by Win-Rate Estimation and Surplus Maximization.pdf           | https://zhuanlan.zhihu.com/p/670846535 | 
 
+## Industry
+| Name                                                                                          | Paper explanation                    |
+|-----------------------------------------------------------------------------------------------|--------------------------------------|
+| Aadkdd24-keynote-criteo |      https://zhuanlan.zhihu.com/p/717857965                          |
+
 ## SSP Reserve Price
 | Name                                                                                          | Paper explanation                    |
 |-----------------------------------------------------------------------------------------------|--------------------------------------|
