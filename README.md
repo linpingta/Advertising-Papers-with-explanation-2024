@@ -39,6 +39,7 @@ This repository contains papers and code related to various aspects of online ad
 | Feedback Control of Real-Time Display Advertising.pdf | https://zhuanlan.zhihu.com/p/98707378 |
 | Optimized Cost per Click in Taobao Display Advertising.pdf |  |
 | Real-Time Bidding by Reinforcement Learning in Display Advertisin.pdf |  |
+| Multi-Task Combinatorial Bandits for Budget Allocation.pdf |  |
 
 ## CTR
 | Name                             | Paper explanation                      |
