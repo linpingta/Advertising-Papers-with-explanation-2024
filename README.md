@@ -11,6 +11,7 @@ This repository contains papers and code related to various aspects of online ad
 | ad_targeting           | Papers and code on ad targeting algorithms and techniques.                                                   |
 | auction                | Papers and code on mechanism for online advertising auctions.                                       |
 | bidding                | Papers and code on bidding strategies for online advertising auctions.                                       |
+| recall                 | Papers and code on recall strategy.                                       |
 | ctr                    | Papers and code on measuring and optimizing ad campaign click through rate.                                          |
 | cvr                    | Papers and code on measuring and optimizing ad campaign conversions.                                          |
 | guaranteed_ad          | Papers and code on guaranteed ad buying and brand advertising.                                                |
@@ -40,6 +41,11 @@ This repository contains papers and code related to various aspects of online ad
 | Optimized Cost per Click in Taobao Display Advertising.pdf |  |
 | Real-Time Bidding by Reinforcement Learning in Display Advertisin.pdf |  |
 | Multi-Task Combinatorial Bandits for Budget Allocation.pdf | https://zhuanlan.zhihu.com/p/718780191 |
+
+## Recall
+| Name                             | Paper explanation                                          |
+|----------------------------------|------------------------------------------------------------|
+| TwERC- High Performance Ensembled Candidate Generation for Ads Recommendation at Twitter.pdf |  |
 
 ## CTR
 | Name                             | Paper explanation                      |
