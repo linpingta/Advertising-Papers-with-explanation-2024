@@ -12,6 +12,7 @@ This repository contains papers and code related to various aspects of online ad
 | auction                | Papers and code on mechanism for online advertising auctions.                                       |
 | bidding                | Papers and code on bidding strategies for online advertising auctions.                                       |
 | recall                 | Papers and code on recall strategy.                                       |
+| embedding              | Papers and code on embedding solution                                   |
 | ctr                    | Papers and code on measuring and optimizing ad campaign click through rate.                                          |
 | cvr                    | Papers and code on measuring and optimizing ad campaign conversions.                                          |
 | guaranteed_ad          | Papers and code on guaranteed ad buying and brand advertising.                                                |
@@ -43,6 +44,11 @@ This repository contains papers and code related to various aspects of online ad
 | Multi-Task Combinatorial Bandits for Budget Allocation.pdf | https://zhuanlan.zhihu.com/p/718780191 |
 
 ## Recall
+| Name                             | Paper explanation                                          |
+|----------------------------------|------------------------------------------------------------|
+| TwHIN- Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation.pdf |  |
+
+## Embedding
 | Name                             | Paper explanation                                          |
 |----------------------------------|------------------------------------------------------------|
 | TwERC- High Performance Ensembled Candidate Generation for Ads Recommendation at Twitter.pdf |  |
