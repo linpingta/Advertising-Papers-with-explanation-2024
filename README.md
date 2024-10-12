@@ -51,7 +51,7 @@ This repository contains papers and code related to various aspects of online ad
 ## Embedding
 | Name                             | Paper explanation                                          |
 |----------------------------------|------------------------------------------------------------|
-| TwERC- High Performance Ensembled Candidate Generation for Ads Recommendation at Twitter.pdf |  |
+| TwERC- High Performance Ensembled Candidate Generation for Ads Recommendation at Twitter.pdf | https://zhuanlan.zhihu.com/p/945355541 |
 
 ## CTR
 | Name                             | Paper explanation                      |
