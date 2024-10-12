@@ -46,7 +46,7 @@ This repository contains papers and code related to various aspects of online ad
 ## Recall
 | Name                             | Paper explanation                                          |
 |----------------------------------|------------------------------------------------------------|
-| TwHIN- Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation.pdf |  |
+| TwHIN- Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation.pdf | https://zhuanlan.zhihu.com/p/945052603 |
 
 ## Embedding
 | Name                             | Paper explanation                                          |
