@@ -67,6 +67,7 @@ This repository contains papers and code related to various aspects of online ad
 |----------------------------------|----------------------------------------|
 | A Nonparametric Delayed Feedback Model for Conversion Rate Prediction.pdf | https://zhuanlan.zhihu.com/p/74586059                                       |
 | Handling many conversions per click in modeling delayed feedback.pdf | https://zhuanlan.zhihu.com/p/515177915 |
+| Modeling labels for conversion value prediction | |
 
 ## Guarantee Ads
 | Name                                                                                           | Paper explanation                      |
