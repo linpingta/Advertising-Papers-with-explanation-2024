@@ -47,6 +47,8 @@ This repository contains papers and code related to various aspects of online ad
 | Name                             | Paper explanation                                          |
 |----------------------------------|------------------------------------------------------------|
 | TwHIN- Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation.pdf | https://zhuanlan.zhihu.com/p/945052603 |
+| SimCSE- Simple Contrastive Learning of Sentence Embeddings.pdf |  |
+
 
 ## Embedding
 | Name                             | Paper explanation                                          |
